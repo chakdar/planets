@@ -1,1 +1,2 @@
 mars is a red planet
+mars is not earth
